@@ -37,6 +37,12 @@ const words = [
   "Clamor",
   "callous",
   "disparate",
+  "saramsika",
+  "saramsika",
+  "saramsika",
+  "saramsika",
+  "saramsika",
+  "saramsika",
 ];
 
 let ramdomWord;
