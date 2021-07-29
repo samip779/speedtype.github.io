@@ -37,7 +37,8 @@ const words = [
   "Clamor",
   "callous",
   "disparate",
-  "saramsika",
+  "subham",
+  "sushant",
   "kalsoneto",
 ];
 
