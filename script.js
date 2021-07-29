@@ -34,7 +34,7 @@ const words = [
   "infrastructure",
   "surreal",
   "Anachronistic",
-  "Clamor",
+  "clamor",
   "callous",
   "disparate",
   "subham",
